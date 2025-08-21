@@ -15,3 +15,4 @@ assert name in alertText
 alert.accept() # used to click on ok
 #alert.dismiss() "is used to click on cancel"
 time.sleep(2)
+print("action performed")
